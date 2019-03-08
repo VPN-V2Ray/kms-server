@@ -1,7 +1,7 @@
 # kms server docker image
 ## 直接可用的地址：
 
-```
+``` 
 kms.luody.info
 ```
 
